@@ -8,7 +8,7 @@ def merge(one, two):
 			if not one:
 				c.extend(two)
 			else:
-				c.append(one)
+				c.extend(one)
 			return c
 			break
 
