@@ -7,5 +7,7 @@ def merge_sort(array):
 
 	if array_1 == [] or array_2 == []:
 		return m.merge(array_1, array_2)
-
+	
+	print array_1, array_2
+	
 	return m.merge(merge_sort(array_1), merge_sort(array_2))
