@@ -1,4 +1,5 @@
 import sys
+from random import randint
 
 def quicksort(array):
 
@@ -10,9 +11,15 @@ def quicksort(array):
 
     leftLen = 0
     rightLen = 0
-    pivot = array[0]
 
-    for i in xrange(1, len(array)):
+    lenArr = len(array)
+
+    pivotInd = randint(0, lenArr - 1)
+    pivot = array[pivotInd]
+
+    swap(0, pivotInd)
+
+    for i in xrange(1, lenArr):
         if array[i] < pivot:
             if not rightLen:
                 leftLen += 1
