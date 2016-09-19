@@ -1,11 +1,12 @@
 import sys
 from random import randint
 
+comparisons = 0
 def quicksort(array):
+    if len(array) <= 1:
+        return array
 
-    if not array:
-        return []
-
+    
     def swap(i, j):
         array[i], array[j] = array[j], array[i]
 
@@ -14,10 +15,31 @@ def quicksort(array):
 
     lenArr = len(array)
 
+    global comparisons
+    comparisons += lenArr - 1
+
+    # # # CHOOSING THE PIVOT # # #
+
+    ### MEDIAN SORT
+    '''first = array[0]
+    last = array[lenArr - 1]
+
+    if lenArr % 2 == 0:
+        middle = array[(lenArr / 2) - 1]
+    else:
+        middle = array[lenArr // 2]
+
+    temp = sorted([first, middle, last])
+    pivot = temp[1]
+
+    swap(0, array.index(pivot))'''
+
+    ### RANDOMIZED SORT
     pivotInd = randint(0, lenArr - 1)
     pivot = array[pivotInd]
+    swap(0, array.index(pivot))
 
-    swap(0, pivotInd)
+    # / / CHOOSING THE PIVOT / / #
 
     for i in xrange(1, lenArr):
         if array[i] < pivot:
@@ -37,11 +59,18 @@ def quicksort(array):
 
     return array
 
-def main():
+'''def main():
     args = map(int, sys.argv[1:])
     quicksort(args)
 
     print args
 
 if __name__ == "__main__":
-    main()
+    main()'''
+
+file = map(int, open("problemset.txt", "r").readlines())
+
+quicksort(file)
+
+print file == sorted(file)
+print comparisons
