@@ -1,3 +1,6 @@
+# HOW TO USE:
+# python selection <numbers separated by spaces> <ith degree statistic>
+
 import sys
 import random
 
