@@ -1,9 +1,4 @@
-# SAMPLE NODES DATA:
-# [Node1, Node2] where Node* is a string
-
-# SAMPLE EDGES DATA:
-# [(Node1, Node2), (Node3, Node4)]
-from contract import contract
+import contract as c
 
 adjList = {}
 
@@ -12,7 +7,7 @@ def populateAdjList(raw):
     raw = raw.splitlines()
 
     for line in raw:
-        temp = line.split("\t")
+        temp = line.strip().split("\t")
 
         key = temp[0]
         value = temp[1 : ]
@@ -23,16 +18,11 @@ def main():
     global adjList
 
     # Populates the adjacency list
-    raw = open("adjacencyList.txt", "r").read()
+    raw = open("min-cut.txt", "r").read()
     populateAdjList(raw)
 
-    print adjList
-
-    contract(adjList)
-    print adjList
-
-    contract(adjList)
-    print adjList
+    c.findMinCut(len(adjList.keys()), adjList)
+    # print c.contract(adjList)
 
 if __name__ == "__main__":
     main()
