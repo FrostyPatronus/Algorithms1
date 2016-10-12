@@ -1,4 +1,5 @@
 import contract as c
+import bfs
 
 adjList = {}
 
@@ -7,7 +8,7 @@ def populateAdjList(raw):
     raw = raw.splitlines()
 
     for line in raw:
-        temp = line.strip().split("\t")
+        temp = line.strip().split(" ")
 
         key = temp[0]
         value = temp[1 : ]
@@ -17,12 +18,14 @@ def populateAdjList(raw):
 def main():
     global adjList
 
-    # Populates the adjacency list
-    raw = open("min-cut.txt", "r").read()
-    populateAdjList(raw)
+    bfs.breadthFirstSearch(adjList, "s")
 
-    c.findMinCut(len(adjList.keys()), adjList)
-    # print c.contract(adjList)
 
 if __name__ == "__main__":
+
+    # Populates the adjacency list
+    raw = open("adjacencyList.txt", "r").read()
+    populateAdjList(raw)
+
+
     main()
