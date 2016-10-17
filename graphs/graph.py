@@ -1,6 +1,7 @@
 import contract as c
 import bfs
 import connectivity as con
+import dfs
 
 adjList = {}
 
@@ -19,7 +20,7 @@ def populateAdjList(raw):
 def main():
     global adjList
 
-    print con.connectivity(adjList)
+    print dfs.depthFirstSearch(adjList, "2")
 
 
 if __name__ == "__main__":
