@@ -1,5 +1,6 @@
 import contract as c
 import bfs
+import connectivity as con
 
 adjList = {}
 
@@ -18,14 +19,12 @@ def populateAdjList(raw):
 def main():
     global adjList
 
-    bfs.breadthFirstSearch(adjList, "s")
+    print con.connectivity(adjList)
 
 
 if __name__ == "__main__":
-
     # Populates the adjacency list
     raw = open("adjacencyList.txt", "r").read()
     populateAdjList(raw)
-
 
     main()
