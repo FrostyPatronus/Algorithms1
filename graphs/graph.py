@@ -20,7 +20,7 @@ def populateAdjList(raw):
 def main():
     global adjList
 
-    print dfs.depthFirstSearch(adjList, "2")
+    print dfs.topologicalOrder(adjList)
 
 
 if __name__ == "__main__":
