@@ -2,6 +2,7 @@ import contract as c
 import bfs
 import connectivity as con
 import dfs
+import scc
 
 adjList = {}
 
@@ -19,8 +20,9 @@ def populateAdjList(raw):
 
 def main():
     global adjList
-
-    print dfs.topologicalOrder(adjList)
+    
+    # Outputs the strongly connected components of a graph
+    scc.scc(adjList)
 
 
 if __name__ == "__main__":
@@ -29,3 +31,5 @@ if __name__ == "__main__":
     populateAdjList(raw)
 
     main()
+
+    

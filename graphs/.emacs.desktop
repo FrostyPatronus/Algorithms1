@@ -1,0 +1,91 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Nov  5 22:18:20 2016
+;; Desktop file format version 208
+;; Emacs version 25.1.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22558 48412 537437 457000) (desktop . "208") "frosty@frosty-bot" nil nil ((((font-backend xft x) (font . "-DAMA-Ubuntu Mono-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#F8F8F2") (background-color . "#272822") (mouse-color . "#F8F8F2") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "green") (environment) (frameset--id . "3710-77A5-D8F4-B49C") (frameset--mini t . t) (fullscreen-restore) (sticky) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (visibility . t) (display . ":0") (explicit-name) (height . 42) (width . 150) (left . 0) (top . 18)) ((min-height . 8) (min-width . 64) (min-height-ignore . 6) (min-width-ignore . 64) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 136) (min-pixel-width . 576) (min-pixel-height-ignore . 102) (min-pixel-width-ignore . 576) (min-pixel-height-safe . 34) (min-pixel-width-safe . 18)) vc (pixel-width . 1366) (pixel-height . 712) (total-width . 152) (total-height . 42) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1366) (pixel-height . 474) (total-width . 152) (total-height . 28) (normal-height . 0.667134831460674) (normal-width . 1.0) (buffer "adjacencyList.txt" (selected) (hscroll . 0) (fringes 8 8 t) (margins nil . 60) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 5) (start . 1))) (leaf (last . t) (pixel-width . 1366) (pixel-height . 238) (total-width . 152) (total-height . 14) (normal-height . 0.332865168539326) (normal-width . 1.0) (buffer "*Warnings*" (selected) (hscroll . 0) (fringes 8 8 t) (margins nil . 60) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 73) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/home/frosty/Desktop/alg/graphs" "/home/frosty/Desktop/alg/graphs/dfs.py" "/home/frosty/Desktop/alg/graphs/graph.py" "/home/frosty/Desktop/alg/graphs/bfs.py" "/home/frosty/Desktop/alg/graphs/adjacencyList.txt" "/home/frosty/Desktop/alg/graphs/graph.py" "/home/frosty/Desktop/alg/graphs/scc.py"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/frosty/Desktop/alg/graphs/adjacencyList.txt"
+  "adjacencyList.txt"
+  'text-mode
+  '(visual-line-mode adaptive-wrap-prefix-mode indent-guide-mode)
+  5
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/frosty/Desktop/alg/graphs/scc.py"
+  "scc.py"
+  'python-mode
+  '(visual-line-mode adaptive-wrap-prefix-mode indent-guide-mode)
+  15
+  '(342 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines))
+  '((mark-ring (342 140 155 148 101 114 117 237 267))))
+
+(desktop-create-buffer 208
+  "/home/frosty/Desktop/alg/graphs/graph.py"
+  "graph.py"
+  'python-mode
+  '(visual-line-mode adaptive-wrap-prefix-mode indent-guide-mode)
+  95
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/frosty/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(visual-line-mode adaptive-wrap-prefix-mode indent-guide-mode)
+  2479
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/frosty/Desktop/alg/graphs/dfs.py"
+  "dfs.py"
+  'python-mode
+  '(visual-line-mode adaptive-wrap-prefix-mode indent-guide-mode)
+  43
+  '(404 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines))
+  '((mark-ring (442 442 442 404 380 442 42))))
+
+(desktop-create-buffer 208
+  "/home/frosty/Desktop/alg/graphs/bfs.py"
+  "bfs.py"
+  'python-mode
+  '(visual-line-mode adaptive-wrap-prefix-mode indent-guide-mode)
+  457
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines))
+  '((mark-ring nil)))
+
