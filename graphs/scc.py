@@ -27,7 +27,9 @@ def dfs(adjList, node):
                 recursion(adjList, vertex)
 
         time += 1
-        finishingTime[node] = time
+
+        # [Finishing Time] : [Node]
+        finishingTime[time] = node
 
     recursion(adjList, node)
     return connection
@@ -44,6 +46,43 @@ def dfsLoop(adjList):
                         
     return connected
 
+def reverseGraph(adjList):
+    graph = deepcopy(adjList)
+
+    # Initialize reversed graph
+    reversedGraph = {key: [] for key in graph}
+
+    for node, edges in graph.iteritems():
+        for adjacent in edges:
+            reversedGraph[adjacent].append(node)
+        
+
+    return reversedGraph
+
+def findSCC(adjList):
+    global explored
+    
+    explored = []
+    graph = reverseGraph(adjList)
+
+    connectedComponents = []
+
+    localTime = time
+
+    while localTime != 0:
+        component = dfs(graph, finishingTime[localTime])
+        localTime -= len(component)
+        connectedComponents.append(component)
+    return connectedComponents
+    # return connectedComponents
+
 def scc(adjList):
+    print "LIST:", adjList
+
     dfsLoop(adjList)
     print finishingTime
+    # print adjList
+    # print reverseGraph(adjList)
+    
+    print findSCC(adjList) 
+
