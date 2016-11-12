@@ -10,8 +10,7 @@ def getMaxNode(adjList):
 
 def dfs(adjList, node):
     global explored
-    global finishingTime
-    
+    global finishingTime    
 
     connection = []
     
@@ -38,7 +37,8 @@ def dfsLoop(adjList):
     vertices = [int(i) for i in adjList.keys()]
     connected = []
 
-    for node in [str(i) for i in range(getMaxNode(adjList), 0, -1)]:
+    # [str(i) for i in range(getMaxNode(adjList), 0, -1)]:
+    for node in adjList:
         if node not in explored:
             connection = dfs(adjList, node)
             # print connection
@@ -55,7 +55,6 @@ def reverseGraph(adjList):
     for node, edges in graph.iteritems():
         for adjacent in edges:
             reversedGraph[adjacent].append(node)
-        
 
     return reversedGraph
 
@@ -77,10 +76,10 @@ def findSCC(adjList):
     # return connectedComponents
 
 def scc(adjList):
-    print "LIST:", adjList
-
+    # print "LIST:", adjList
+    print "DFS LOOP"
     dfsLoop(adjList)
-    print finishingTime
+    # print finishingTime
     # print adjList
     # print reverseGraph(adjList)
     

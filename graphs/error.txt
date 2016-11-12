@@ -1,0 +1,2005 @@
+Finished creating Adj List
+[]
+DFS LOOP
+Traceback (most recent call last):
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 26, in recursion
+    recursion(adjList, vertex)
+  File "/home/frosty/Desktop/alg/graphs/scc.py", line 24, in recursion
+    for vertex in adjList[node]:
+RuntimeError: maximum recursion depth exceeded in cmp
