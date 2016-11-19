@@ -1,3 +1,5 @@
+import heapq 
+
 def dijkstra(graph, source):
     graphSize = len(graph)
 
@@ -7,7 +9,8 @@ def dijkstra(graph, source):
 
         greedySentry = None
         sourceNode = None
-        
+
+        # Exhaustive comparisons
         for node in scores:
 
             for edge in graph[node]:
@@ -34,9 +37,45 @@ def dijkstra(graph, source):
                     greedySentry = edge
                     sourceNode = node
 
-        print greedySentry
-        print scores[sourceNode]
+        # print greedySentry
+        # print scores[sourceNode]
         
         scores[greedySentry[0]] = greedySentry[1] + scores[sourceNode]
 
     print scores
+
+# Sample dict 
+# {Node : [ [Edge1, weight], [Edge2, weight] ]}
+    
+def dijkstraHeap(graph, source):
+    print graph
+    heap = []
+
+    # Iterate over nodes
+    for node in graph:
+        if node == source:
+            heap.append((0, node))
+        heap.append((float("inf"), node))
+    heapq.heapify(heap)
+
+    graphSize = len(graph)
+    explored = {}
+    exploredSize = 0
+    
+    while exploredSize < graphSize:
+        exploredScore, exploredNode = heapq.heappop(heap)
+
+        if exploredNode in explored:
+            continue
+        
+        explored[exploredNode] = exploredScore
+        
+        for edge, edgeWeight in graph[exploredNode]:
+            # Check if node is in the heap
+            if edge not in explored:
+                heapq.heappush(heap, (edgeWeight + exploredScore, edge))
+                
+        exploredSize += 1
+        
+    print explored
+    

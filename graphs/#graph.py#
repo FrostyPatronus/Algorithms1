@@ -8,6 +8,9 @@ import dijkstra
 
 adjList = {}
 
+def ppp():
+    
+
 def populateAdjListWeighted(raw):
     raw = raw.splitlines()
     
@@ -22,7 +25,7 @@ def populateAdjListWeighted(raw):
         for value in raw_values:
             pair = value.split(",")
             pair[1] = int(pair[1])
-            values.append((pair[0], pair[1]))
+            values.append(pair)
         
         adjList[key] = values
 
