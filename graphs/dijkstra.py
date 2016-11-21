@@ -77,5 +77,6 @@ def dijkstraHeap(graph, source):
                 
         exploredSize += 1
         
-    print explored
-    
+    return explored
+
+# Answer to the quiz is 2599,2610,2947,2052,2367,2399,2029,2442,2505,3068

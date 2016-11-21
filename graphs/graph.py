@@ -12,11 +12,11 @@ def populateAdjListWeighted(raw):
     raw = raw.splitlines()
     
     for line in raw:
-        temp = line.strip().split(" ")
+        temp = line.strip().split("\t")
 
         key = temp[0]
         raw_values = temp[1: ]
-
+        
         values = []
         
         for value in raw_values:
@@ -54,7 +54,11 @@ def main():
     
     # Outputs the strongly connected components of a graph
     # scc.scc(adjList)
-    dijkstra.dijkstraHeap(adjList, "s")
+    results = dijkstra.dijkstraHeap(adjList, "1")
+
+    cases = "7,37,59,82,99,115,133,165,188,197".split(",")
+    
+    print ",".join([str(results[i]) for i in cases])
 
 if __name__ == "__main__":
     # Populates the adjacency list
@@ -62,9 +66,6 @@ if __name__ == "__main__":
     # adjList = {key: [] for key in range(1, 875714 + 1)}
     
     # print adjList
-
     populateAdjListWeighted(raw)
-
     main()
-
     
