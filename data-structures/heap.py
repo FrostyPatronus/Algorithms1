@@ -1,10 +1,13 @@
+import heapq
+
+# Making my own MaxHeap implementation because there is no min heap in python
 class maxHeap:
     def __init__(self, data=None):
         self.data = []
         if data:
             # If there's data, insert the 
             for elem in data:
-                self.insert(elem)
+                self.heappush(elem)
                 
         # print self.data
         
@@ -12,7 +15,7 @@ class maxHeap:
         return str(self.data)
 
     # MAIN FUNCTIONS
-    def insert(self, element):
+    def heappush(self, element):
         self.data.append(element)
         
         elemIndex = len(self.data) - 1
@@ -28,7 +31,7 @@ class maxHeap:
 
             parentIndex, parent = self._parent(elemIndex)
             
-    def extractMax(self):
+    def heappop(self):
         leaf = self.data.pop()
         maxVal = self.data[0]
         self.data[0] = leaf
@@ -48,6 +51,12 @@ class maxHeap:
 
         return maxVal
 
+    def peek(self):
+        if self.len() == 0:
+            return None
+        
+        return self.data[0]
+    
     def _largestChild(self, index):
         leftIndex, left = self._leftChild(index)
         rightIndex, right = self._rightChild(index)
@@ -89,15 +98,108 @@ class maxHeap:
     def _rightChild(self, index):
         childIndex = (index + 1) * 2
         return (childIndex, self._getElement(childIndex))
+
+    def len(self):
+        return len(self.data)
+
+# Min Heap wrapper
+class minHeap:
+    def __init__(self, init=[]):
+        self.heap = []
+        for elem in init:
+            self.heappush(elem)
+
+    def __str__(self):
+        return str(self.heap)
+    
+    def heappush(self, item):
+        heapq.heappush(self.heap, item)
+
+    def heappop(self):
+        return heapq.heappop(self.heap)
+
+    def peek(self):
+        if self.len() == 0:
+            return None
             
+        return self.heap[0]
+    
+    def len(self):
+        return len(self.heap)
 
+class medianMaintenance:
+    def __init__(self):
+        self.leftHeap = maxHeap()
+        self.rightHeap = minHeap()
+
+    def __str__(self):
+        return str((str(self.leftHeap), str(self.rightHeap)))
+
+    def insert(self, item):
+        leftHeap = self.leftHeap
+        rightHeap = self.rightHeap
+
+        leftPeek = leftHeap.peek()
+
+        if item < leftPeek:
+            leftHeap.heappush(item)
+        else:
+            rightHeap.heappush(item)
+        leftLen = leftHeap.len()
+        rightLen = rightHeap.len()
+
+        delta = leftLen - rightLen
+        self._rebalance(delta)
+
+    def median(self):
+        leftLen = self.leftHeap.len()
+        rightLen = self.rightHeap.len()
+        
+        delta = leftLen - rightLen
+
+        # If they're completely balanced
+        if delta == 0:
+            return self.leftHeap.peek()
+
+        # If right heap overflows
+        elif delta == -1:
+            return self.rightHeap.peek()
+
+        # If left heap overflows
+        elif delta == 1:
+            return self.leftHeap.peek()
+
+    def _rebalance(self, delta):
+        leftHeap = self.leftHeap
+        rightHeap = self.rightHeap
+        
+        # If overflowed right
+        if delta <= -2:
+            leftHeap.heappush(rightHeap.heappop())
+
+        # If overflowed left
+        elif delta >= 2:
+            rightHeap.heappush(leftHeap.heappop())
+
+        else:
+            return
+
+        # In case the two heaps are super imbalanced:
+        # (Currently impossible to reach in this implementation)
+        delta = leftHeap.len() - rightHeap.len()
+        self._rebalance(delta)
+
+# MM.insert(elem)
+# MM.median()
 if __name__ == "__main__":
-    # data = [int(i) for i in open("median.txt").readlines()]
+    data = [int(i) for i in open("median.txt").readlines()]
+    
+    medianHeap = medianMaintenance()
 
-    test = maxHeap([50, 10, 7, 3, 4, 49, 20])
+    _sum = 0
+    for num in data:
+        medianHeap.insert(num)
+        _sum += medianHeap.median()
 
-    print test
-
-    print test.extractMax()
-
-    print test
+    print _sum % 10000        
+    

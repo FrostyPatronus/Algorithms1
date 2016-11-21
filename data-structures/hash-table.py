@@ -85,4 +85,4 @@ if __name__ == "__main__":
     # print dataList
     # print data
     
-    print twoSumBisect(dataList)
+    print len(twoSumBisect(dataList))
