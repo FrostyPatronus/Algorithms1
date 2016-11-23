@@ -5,6 +5,7 @@ import dfs
 import scc
 import sys
 import dijkstra
+import scc2
 
 adjList = {}
 
@@ -32,40 +33,50 @@ def populateAdjListWeighted(raw):
 def populateAdjList(raw):
     global adjList
     raw = raw.splitlines()
-    
+
     for line in raw:
+        if not line:
+            continue
+        
         temp = [int(i) for i in line.strip().split(" ")]
 
         key = temp[0]
-        value = temp[1]
+        value = temp[1:]
 
+        if adjList.has_key(key):
+            adjList[key].extend(value)
+        else:
+            adjList[key] = value
+
+
+        for edge in value:
+            if not adjList.has_key(edge):
+                adjList[edge] = []
         
-        adjList[key].append(value)
-        
-            
         # adjList[key] = value
 
     print "Finished creating Adj List"
-    print adjList[416780]
+    # print adjList
+
 
     
 def main():
     global adjList
     
     # Outputs the strongly connected components of a graph
-    # scc.scc(adjList)
-    results = dijkstra.dijkstraHeap(adjList, "1")
-
-    cases = "7,37,59,82,99,115,133,165,188,197".split(",")
+    scc2.scc(adjList)
     
-    print ",".join([str(results[i]) for i in cases])
 
 if __name__ == "__main__":
     # Populates the adjacency list
-    raw = open("adjacencyList.txt", "r").read()
+    raw = open("scc.txt", "r").read()
     # adjList = {key: [] for key in range(1, 875714 + 1)}
     
     # print adjList
-    populateAdjListWeighted(raw)
+    # populateAdjListWeighted(raw)
+
+    populateAdjList(raw)
+    # print adjList
+
     main()
     

@@ -1,6 +1,13 @@
+import sys
+import resource
+import heapq
+
+sys.setrecursionlimit(2**20)
+resource.setrlimit(resource.RLIMIT_STACK, (2 ** 29, 2 ** 30))
+
 from copy import deepcopy
 
-explored = []
+explored = {}
 finishingTime = {}
 time = 0
 
@@ -18,7 +25,7 @@ def dfs(adjList, node):
         global time
         
         connection.append(node)
-        explored.append(node)
+        explored[node] = None
         # print "[EXPLORED]:",  explored
     
         for vertex in adjList[node]:
@@ -61,7 +68,7 @@ def reverseGraph(adjList):
 def findSCC(adjList):
     global explored
     
-    explored = []
+    explored = {}
     graph = reverseGraph(adjList)
 
     connectedComponents = []
@@ -83,5 +90,7 @@ def scc(adjList):
     # print adjList
     # print reverseGraph(adjList)
     
-    print findSCC(adjList) 
+    results = findSCC(adjList) 
 
+    # print heapq.nlargest(5, [len(i) for i in results])
+    print results

@@ -193,13 +193,14 @@ class medianMaintenance:
 # MM.median()
 if __name__ == "__main__":
     data = [int(i) for i in open("median.txt").readlines()]
-    
+
     medianHeap = medianMaintenance()
 
     _sum = 0
     for num in data:
         medianHeap.insert(num)
         _sum += medianHeap.median()
-
+        print medianHeap
+        
     print _sum % 10000        
     
