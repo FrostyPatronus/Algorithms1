@@ -1,6 +1,8 @@
 import heapq
 import sys
 
+import time
+
 import resource
 
 sys.setrecursionlimit(10**6)
@@ -14,23 +16,30 @@ class scc:
         self.finishingTimes = {}
 
         self.progress = 0
+        
+        t1 = time.time()
 
         self.main()
 
+        t2 = time.time()
+        delta = t2 - t1
+        print "Time elapsed:", delta
+
     def main(self):
 
-        # Call DFS loop on transposed graph
-
+        # Call DFS loop on the graph
+        
         print "In main"
-        self.firstPass(self.transposedGraph())
+        self.firstPass(self.graph)
+        
         print "done with first pass"
-        results = self.secondPass(self.graph)
-
+        results = self.secondPass(self.transposedGraph())
+        
         # print results
         print heapq.nlargest(5, map(len, results))
         
         print "done with sec pass"
-        
+
         
     def firstPass(self, graph):
         for key in graph:
@@ -77,7 +86,7 @@ class scc:
         localExplored = []
         
         def recursion(node):
-            self.explored.add(node)
+            self.explored.addode)
             localExplored.append(node)
             
             for edge in graph[node]:

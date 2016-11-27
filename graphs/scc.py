@@ -3,7 +3,6 @@ import resource
 import heapq
 
 sys.setrecursionlimit(2**20)
-resource.setrlimit(resource.RLIMIT_STACK, (2 ** 29, 2 ** 30))
 
 from copy import deepcopy
 
