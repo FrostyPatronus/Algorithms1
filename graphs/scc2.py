@@ -40,6 +40,7 @@ class scc:
         
         print "done with sec pass"
 
+        # Answer is [434821, 968, 459, 313, 211]
         
     def firstPass(self, graph):
         for key in graph:
@@ -86,7 +87,7 @@ class scc:
         localExplored = []
         
         def recursion(node):
-            self.explored.addode)
+            self.explored.add(node)
             localExplored.append(node)
             
             for edge in graph[node]:
